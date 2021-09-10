@@ -2,7 +2,7 @@
 
 
 - Instruções:
-> npm install canvas
+> npm install canvas\n
 > npm install jimp
 > npm install moment
 
